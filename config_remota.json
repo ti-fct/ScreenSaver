@@ -4,5 +4,5 @@
     "pasta_cache_local_subpath": "ProtetorTelaUniversidade/CacheImagens",
     "tempo_exibicao_imagem_segundos": 10,
     "extensoes_permitidas": [".jpg", ".jpeg", ".png", ".gif", ".bmp"],
-    "url_configuracao_remota": "https://raw.githubusercontent.com/ti-fct/ScreenSaver/refs/heads/main/configuracao.py"
+    "url_configuracao_remota": "https://raw.githubusercontent.com/ti-fct/ScreenSaver/refs/heads/main/config_remota.json"
 }
