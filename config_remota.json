@@ -1,0 +1,8 @@
+{
+    "versao_config": "1.1.0",
+    "pasta_imagens_rede": "\\\\fog\\gpos\\wall",
+    "pasta_cache_local_subpath": "ProtetorTelaUniversidade/CacheImagens",
+    "tempo_exibicao_imagem_segundos": 10,
+    "extensoes_permitidas": [".jpg", ".jpeg", ".png", ".gif", ".bmp"],
+    "url_configuracao_remota": "https://github.com/ti-fct/ScreenSaver/blob/main/config.json"
+}
