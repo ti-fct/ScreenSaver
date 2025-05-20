@@ -9,7 +9,7 @@ logger = logging.getLogger(__name__)
 
 # URL padrão para a configuração, caso não seja fornecida.
 # É altamente recomendável que você compile com a URL correta ou use o argumento /configurl.
-URL_CONFIG_PADRAO = "http://localhost/config_protetor.json" # Altere para a URL real da sua rede
+URL_CONFIG_PADRAO = "https://raw.githubusercontent.com/ti-fct/ScreenSaver/refs/heads/main/config_remota.json" # Altere para a URL real da sua rede
 
 def carregar_configuracao(url_config_remota=None):
     """
